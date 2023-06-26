@@ -21,3 +21,6 @@ Technologies:
 - Stripe Payment
 - REST API
 
+ADDITIONAL NOTES:
+- Insert mongoDB key in 'app.js'
+- Insert stripe key in '/controllers/shop.js'
