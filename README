@@ -1,5 +1,6 @@
 Shop application 
 User features:
+- Signup + Login (w/ authentication for users and administrators)
 - Search through products page
 - Add items from product page to cart
 - Check out from cart using Stripe
