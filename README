@@ -1,5 +1,23 @@
+Shop application 
+User features:
+- Search through products page
+- Add items from product page to cart
+- Check out from cart using Stripe
+- See order history
+
+Admin features:
+- CRUD operations for products
 
 ...
+Technologies:
+- Nodejs
+- ExpressJs
+- EJS Template Engine
+- MVC architecture
+- Routing
+- NoSQL/MongoDB
+- Sessions/Cookies
+- Authentication/Validation
+- Stripe Payment
+- REST API
 
-
-Used SendGrid for sending emails to Reset Password
